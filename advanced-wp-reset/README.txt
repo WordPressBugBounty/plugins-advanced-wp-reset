@@ -3,8 +3,8 @@ Contributors: symptote, owleads
 Tags: database, reset database, reset, clean, restore
 Requires at least: 4.0
 Requires PHP: 7.0
-Tested up to: 6.6
-Stable tag: 2.0.6
+Tested up to: 6.7
+Stable tag: 2.0.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -193,6 +193,10 @@ This section describes how to install the plugin and get it working.
 5. WP switcher
 
 == Changelog ==
+
+= 2.0.7 - 17/01/2025 =
+- Fix: tiny snapshot download bug
+- Compatibility: Tested for WordPress 6.7.1.
 
 = 2.0.6 - 11/01/2024 =
 - Fix: the admin user is not created correctly when Elementor is active

@@ -212,7 +212,7 @@ class AWR_Application {
 			<!--div style="padding:15px !important;" class="updated DBR-top-main-msg is-dismissible"-->
 				<span style="font-size:20px;color:#00A328;font-weight:bold;display:block"><?php _e('Awesome!', 'advanced-wp-reset'); ?></span>
 				<p style="font-size:14px;line-height:30px;color:#06283D">
-					<?php _e('The plugin <strong>"Advanced DB Reset"</strong> just helped you reset your database to a fresh installation with success!', 'advanced-wp-reset'); ?>
+					<?php _e('The plugin <strong>"Advanced WP Reset"</strong> just helped you reset your database to a fresh installation with success!', 'advanced-wp-reset'); ?>
 					<br/>
 					<?php _e('Could you please kindly help the plugin in your turn by giving it 5 stars rating? (Thank you in advance)', 'advanced-wp-reset'); ?>
 					<div style="font-size:14px;margin-top:10px;" class="flex flex-wrap gap-3 items-center">
@@ -344,9 +344,9 @@ class AWR_Application {
 		<div class="awpr-app-container">
 			<div class="notice notice-success"style="padding:10px 30px;border-top:0;border-right:0;border-bottom:0;margin:1rem">
 			<!--div style="padding:15px !important;" class="updated DBR-top-main-msg is-dismissible"-->
-				<span style="font-size:20px;color:#00A328;font-weight:bold;display:block"><?php _e("What's New in Advanced WP Reset 2.0.6!", 'advanced-wp-reset'); ?></span>
+				<span style="font-size:20px;color:#00A328;font-weight:bold;display:block"><?php _e("What's New in Advanced WP Reset 2.0.7!", 'advanced-wp-reset'); ?></span>
 				<p style="font-size:14px;line-height:30px;color:#06283D">
-					<?php _e('In this version, the <b>Advanced DB Reset</b> plugin introduces the <b>Snapshot</b> feature, allowing you to create, download, restore, and compare snapshots with others.', 'advanced-wp-reset'); ?>
+					<?php _e('In this version, the <b>Advanced WP Reset</b> plugin introduces the <b>Snapshot</b> feature, allowing you to create, download, restore, and compare snapshots with others.', 'advanced-wp-reset'); ?>
 					<br/>
 					<div style="font-size:14px;margin-top:10px;" class="flex flex-wrap gap-3 items-center">
 						<a class="awpr-notice-button-link" href="<?php echo esc_url( $AWR_new_URI ); ?>"><?php _e('HIDE', 'advanced-wp-reset'); ?></a>

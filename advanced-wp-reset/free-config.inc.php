@@ -5,10 +5,6 @@ if ( !defined("AWR_IS_PRO_VERSION") ) {
 	define( "AWR_IS_PRO_VERSION", 0 );
 }
 
-/*if ( !defined("AWR_IS_PRO_VERSION") ) {
-	define( "AWR_IS_PRO_VERSION", false );
-}*/
-
 if ( !defined("AWR_PLUGIN_NAME") ) {
 define( "AWR_PLUGIN_NAME", 'Advanced WP Reset' );
 }
@@ -21,7 +17,7 @@ if ( !defined("AWR_PLUGIN_TEXTDOMAIN") ) {
 	define( "AWR_PLUGIN_TEXTDOMAIN", 'advanced-wp-reset' );
 }
 
-define("AWR_PLUGIN_VERSION", "2.0.6");
+define("AWR_PLUGIN_VERSION", "2.0.7");
 
 // Plugin options:
 define( 'AWR_SNAPSHOTS', 'awr_snapshots' );

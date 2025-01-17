@@ -300,6 +300,9 @@ class SnapshotController extends AbstractController {
             // Read and output the file contents
             readfile($file['path']);
 
+            // Delete the sql file
+            unlink($file['path']);
+            
             (new AjaxOutputter())
                         ->setCode(1)
                         ->setMessage('')

@@ -4,7 +4,7 @@
 Plugin Name: Advanced WP Reset
 Plugin URI: https://sigmaplugin.com/
 Description: The ultimate solution for resetting your WordPress database or specific components to their default settings using the advanced reset features.
-Version: 2.0.6
+Version: 2.0.7
 Requires at least: 4.0
 Author: SigmaPlugin
 Author URI: https://sigmaplugin.com/
